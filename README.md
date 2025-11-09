@@ -131,4 +131,4 @@ To clean and analyze global data job postings in order to extract actionable str
 ---
 
 ## 📞 Contact
-For questions or collaboration opportunities, feel free to connect with me on [LinkedIn](your-linkedin-profile-url)
+For questions or collaboration opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/youssef-gebreal-297a43338/)
