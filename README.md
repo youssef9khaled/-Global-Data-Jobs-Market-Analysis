@@ -66,7 +66,10 @@ To clean and analyze global data job postings in order to extract actionable str
 - **Visualizations:** Bar, Column, Pie, Donut, Map (Filled), Funnel, Tree Map
 - **Slicers:** Added to allow dynamic filtering and interactivity
 
-### 📊 Dashboard
+### 📊 Dashboards
+![Dashboard](Salary,%20Geography,%20and%20Job%20Opportunities%20in%20Data%20Roles.png)
+![Dashboard](Market%20trends,%20Skills%20And%20Job%20Roles.png)
+
 
 
 ### 🔍 Key Insights
